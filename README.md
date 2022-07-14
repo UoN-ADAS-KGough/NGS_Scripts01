@@ -7,4 +7,4 @@ CompareZ_2.1.pl is used to calculate Z score values for a positive and control e
 
 barcodes.txt contains a list of Ion Torrent barcodes in the format expected by pipeline.pl
 
-AEGEF.txt and DPAKA.txt are files containing the N- and C-terminal amino acid sequnces flanking a randomised library insert.
+AEGEF.txt and DPAKA.txt are files containing the N- and C-terminal amino acid sequnces flanking a randomised insert for a pC89 derived library.
